@@ -27,7 +27,7 @@ Ce script PowerShell interactif permet de nettoyer efficacement un système Wind
 
 - Windows 10 ou 11  
 - PowerShell via cmd (version 5.1 ou PowerShell 7+)  
-  https://github.com/PowerShell/PowerShell/releases/tag/v7.5.1
+  https://github.com/PowerShell/PowerShell/releases/tag/v7.5.2
 - Exécution en mode administrateur (obligatoire pour certaines actions)
 
 ---
