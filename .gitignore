@@ -1,0 +1,49 @@
+# Fichiers temporaires Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+Icon?
+*.stackdump
+
+# Dossiers système Windows
+AppData/
+Local Settings/
+Temp/
+tmp/
+Prefetch/
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de dump
+*.dmp
+
+# PowerShell caches et historiques
+*.ps1xml
+*.ps1.history
+*.ps1.cache
+*.psd1.cache
+*.psm1.cache
+*.ps1psm1cache
+
+# Modules PowerShell locaux (si tu en as)
+Modules/
+
+# Visual Studio Code
+.vscode/
+
+# Fichiers binaires / exécutables (éviter de versionner par erreur)
+*.exe
+*.dll
+*.pdb
+
+# Node.js (au cas où)
+node_modules/
+
+# Windows Update log (si jamais)
+WindowsUpdate.log

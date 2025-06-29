@@ -1,0 +1,13 @@
+Copyright (c) 2025 DemonDeV-tech
+
+Toute reproduction, modification, distribution, diffusion, copie, adaptation, ou utilisation partielle ou totale de ce script, sous quelque forme que ce soit, est strictement interdite sans l’autorisation écrite préalable de l’auteur.
+
+Ce script est fourni "tel quel", sans aucune garantie, explicite ou implicite, y compris mais sans s’y limiter, les garanties de qualité marchande, d’adaptation à un usage particulier, ou d’absence de contrefaçon.
+
+L’auteur ne pourra en aucun cas être tenu responsable de tout dommage direct, indirect, accessoire, spécial, exemplaire ou consécutif, incluant notamment mais non limité à la perte de données, de bénéfices, ou d’exploitation, résultant de l’utilisation ou de l’incapacité à utiliser ce script, même si l’auteur a été informé de la possibilité de tels dommages.
+
+Toute demande d’autorisation, question, rapport de bug ou suggestion d’amélioration doit être adressée via la création d’un ticket (issue) sur la page GitHub officielle du projet.
+
+En utilisant ce script, vous acceptez sans réserve ces conditions et vous engagez à respecter les droits de l’auteur.
+
+Merci de respecter cette licence et d’utiliser ce script de manière responsable.
