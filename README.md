@@ -26,7 +26,8 @@ Ce script PowerShell interactif permet de nettoyer efficacement un système Wind
 ## Prérequis
 
 - Windows 10 ou 11  
-- PowerShell (version 5.1 ou PowerShell 7+)  
+- PowerShell via cmd (version 5.1 ou PowerShell 7+)  
+  https://github.com/PowerShell/PowerShell/releases/tag/v7.5.1
 - Exécution en mode administrateur (obligatoire pour certaines actions)
 
 ---
@@ -39,6 +40,16 @@ Ce script PowerShell interactif permet de nettoyer efficacement un système Wind
    
    cd chemin\vers\le\dossier ou fichier
 
+🔧 Étapes pour autoriser l'exécution du script
+Ouvrir PowerShell en tant qu’administrateur :
+
+Clic droit sur l’icône de PowerShell → "Exécuter en tant qu'administrateur"
+
+Exécuter cette commande :
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+💡 Cette commande change la stratégie temporairement pour la session en cours (aucun risque pour le système).
 
 4.Puis une fois dans le dossier ou emplacement du fichier lancer avec la commande :
 
